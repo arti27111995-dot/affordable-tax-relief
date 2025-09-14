@@ -1,0 +1,41 @@
+#get_estimate {
+    color: #ffffff !important;
+    border: 0px solid #0c5bd1 !important;
+    border-radius: 40px;
+    background-color: #0C71C3 !important;
+    padding: 10px 40px !important;
+    margin: 10px 0 !important;
+    box-shadow: 0px 5px 18px -6px rgba(0, 0, 0, 0.3) !important;
+}
+
+.et_pb_button.df_step_button.df_step_prev {
+    display: none !important;
+}
+
+.mfp-auto-cursor .mfp-content {
+    cursor: auto;
+    background: white url('../../../uploads/2023/10/dove-color-opacity.svg') no-repeat right top;
+    border-radius: 10px;
+    margin-top: 10px;
+    padding: 0 0 10px 0;
+}
+
+/* @Media Query */
+@media screen and (min-width: 769px) {
+    .mfp-auto-cursor .mfp-content {
+        width: 800px !important;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .mfp-auto-cursor .mfp-content {
+        width: 90% !important;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .mfp-auto-cursor .mfp-content {
+        width: 90% !important;
+        min-height: 350px;
+    }
+}

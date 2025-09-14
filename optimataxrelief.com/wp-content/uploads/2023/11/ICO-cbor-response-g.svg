@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75" height="75" viewBox="0 0 75 75">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_104" data-name="Rectangle 104" width="40.428" height="40.466" transform="translate(0 0)" fill="#0e71c3"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00c4ff"/>
+      <stop offset="1" stop-color="#0a81e3"/>
+    </linearGradient>
+    <clipPath id="clip-ICO-cbor-response-g">
+      <rect width="75" height="75"/>
+    </clipPath>
+  </defs>
+  <g id="ICO-cbor-response-g" clip-path="url(#clip-ICO-cbor-response-g)">
+    <g id="Group_165" data-name="Group 165" transform="translate(17.286 17.267)">
+      <g id="Group_164" data-name="Group 164" clip-path="url(#clip-path)">
+        <path id="Path_249" data-name="Path 249" d="M40.427,27.474A7.228,7.228,0,0,1,33.443,34.7a14.462,14.462,0,0,0,1.2-5.784V21.69A14.273,14.273,0,0,0,33.2,15.371a13.014,13.014,0,0,0-26.028,0A14.273,14.273,0,0,0,5.724,21.69v7.229a14.462,14.462,0,0,0,1.2,5.784A7.23,7.23,0,0,1,4.278,20.88V15.906a15.906,15.906,0,0,1,31.812,0V20.88a7.231,7.231,0,0,1,4.337,6.594M20.184,10.122A11.568,11.568,0,0,0,8.616,21.69v7.229A11.568,11.568,0,0,0,30.19,34.7H20.184a1.445,1.445,0,0,1-1.446-1.446V31.811a1.446,1.446,0,1,1,2.892,0h9.746a11.955,11.955,0,0,0,.376-2.892V21.69A11.568,11.568,0,0,0,20.184,10.122" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+  </g>
+</svg>

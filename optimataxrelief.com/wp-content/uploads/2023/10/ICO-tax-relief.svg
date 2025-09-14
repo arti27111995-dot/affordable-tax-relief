@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="105" height="105" viewBox="0 0 105 105">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_90" data-name="Rectangle 90" width="65" height="71" fill="none" stroke="#0e71c3" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-ICO-tax-relief">
+      <rect width="105" height="105"/>
+    </clipPath>
+  </defs>
+  <g id="ICO-tax-relief" clip-path="url(#clip-ICO-tax-relief)">
+    <g id="Group_135" data-name="Group 135" transform="translate(20 17)">
+      <path id="Line_14" data-name="Line 14" d="M0,22a1,1,0,0,1-.58-.186,1,1,0,0,1-.232-1.395l15-21a1,1,0,0,1,1.395-.232A1,1,0,0,1,15.814.581l-15,21A1,1,0,0,1,0,22Z" transform="translate(13 10)" fill="#0e71c3"/>
+      <g id="Group_134" data-name="Group 134">
+        <g id="Group_133" data-name="Group 133" clip-path="url(#clip-path)">
+          <path id="Ellipse_18" data-name="Ellipse 18" d="M4.5-1A5.5,5.5,0,1,1-1,4.5,5.506,5.506,0,0,1,4.5-1Zm0,9A3.5,3.5,0,1,0,1,4.5,3.5,3.5,0,0,0,4.5,8Z" transform="translate(9 10)" fill="#0e71c3"/>
+          <path id="Ellipse_19" data-name="Ellipse 19" d="M4.5-1A5.5,5.5,0,1,1-1,4.5,5.506,5.506,0,0,1,4.5-1Zm0,9A3.5,3.5,0,1,0,1,4.5,3.5,3.5,0,0,0,4.5,8Z" transform="translate(24 22)" fill="#0e71c3"/>
+          <path id="Ellipse_20" data-name="Ellipse 20" d="M19.5-1A20.494,20.494,0,0,1,34,34,20.5,20.5,0,1,1,11.52.611,20.373,20.373,0,0,1,19.5-1Zm0,39A18.5,18.5,0,0,0,32.581,6.419,18.5,18.5,0,1,0,6.419,32.581,18.379,18.379,0,0,0,19.5,38Z" transform="translate(1 1)" fill="#0e71c3"/>
+          <path id="Path_216" data-name="Path 216" d="M36.761,63.843A1,1,0,0,1,36,63.493L18.241,42.772A1,1,0,0,1,19,41.122h7.88v-6.4a1,1,0,0,1,2,0v7.4a1,1,0,0,1-1,1H21.174L36.761,61.306,52.348,43.122H47.122a1,1,0,0,1-1-1V14a1,1,0,0,1,2,0V41.122h6.4a1,1,0,0,1,.759,1.651L37.52,63.493A1,1,0,0,1,36.761,63.843Z" transform="translate(9.122 6.721)" fill="#0e71c3"/>
+          <path id="Line_15" data-name="Line 15" d="M0,10A1,1,0,0,1-1,9V0A1,1,0,0,1,0-1,1,1,0,0,1,1,0V9A1,1,0,0,1,0,10Z" transform="translate(50 4)" fill="#0e71c3"/>
+          <path id="Line_16" data-name="Line 16" d="M0,13a1,1,0,0,1-1-1V0A1,1,0,0,1,0-1,1,1,0,0,1,1,0V12A1,1,0,0,1,0,13Z" transform="translate(46 18)" fill="#0e71c3"/>
+          <path id="Line_17" data-name="Line 17" d="M0,6A1,1,0,0,1-1,5V0A1,1,0,0,1,0-1,1,1,0,0,1,1,0V5A1,1,0,0,1,0,6Z" transform="translate(56 10)" fill="#0e71c3"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

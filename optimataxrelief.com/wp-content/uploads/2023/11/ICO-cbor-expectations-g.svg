@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75" height="75" viewBox="0 0 75 75">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0a81e3"/>
+      <stop offset="1" stop-color="#00c4ff"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_95" data-name="Rectangle 95" width="41.53" height="43.34" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="0.888" y1="0.86" x2="0.149" y2="0.153" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-ICO-cbor-expectations-g">
+      <rect width="75" height="75"/>
+    </clipPath>
+  </defs>
+  <g id="ICO-cbor-expectations-g" clip-path="url(#clip-ICO-cbor-expectations-g)">
+    <g id="Group_147" data-name="Group 147" transform="translate(16.735 15.83)">
+      <g id="Group_146" data-name="Group 146" clip-path="url(#clip-path)">
+        <path id="Union_3" data-name="Union 3" d="M1410.149-11164.661v-11.819h10.382v11.819Zm3.46-3.937h3.463v-3.94h-3.463Zm-13.842,0h-15.575c-2.864,0-5.193-2.652-5.193-5.91v-7.881c0-3.258,2.329-5.91,5.193-5.91h8.652v-3.94h10.382v11.819h-10.382v-3.938h-8.652a1.864,1.864,0,0,0-1.73,1.97v7.881a1.864,1.864,0,0,0,1.73,1.97h15.575v-3.941l10.382,5.91-10.382,5.909Zm-3.463-15.761h3.463v-3.94H1396.3Zm6.922-1.972,10.382-5.909v3.94h1.73a1.861,1.861,0,0,0,1.73-1.969v-7.882a1.861,1.861,0,0,0-1.73-1.969h-25.954v3.94H1379V-11208h10.385v3.94h25.954c2.863,0,5.192,2.653,5.192,5.91v7.882c0,3.257-2.329,5.909-5.192,5.909h-1.73v3.938Zm-20.764-13.788h3.46v-3.941h-3.46Z" transform="translate(-1379 11208)" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+  </g>
+</svg>

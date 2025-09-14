@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75" height="75" viewBox="0 0 75 75">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.156" x2="0.5" y2="0.908" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0781e3"/>
+      <stop offset="1" stop-color="#00cdfd"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_94" data-name="Rectangle 94" width="46.75" height="49.594" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="0.586" y1="0.94" x2="0.273" y2="0.079" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0a81e3"/>
+      <stop offset="1" stop-color="#00c4ff"/>
+    </linearGradient>
+    <clipPath id="clip-ICO-cbor-service-g">
+      <rect width="75" height="75"/>
+    </clipPath>
+  </defs>
+  <g id="ICO-cbor-service-g" clip-path="url(#clip-ICO-cbor-service-g)">
+    <g id="Group_145" data-name="Group 145" transform="translate(14.125 12.703)">
+      <g id="Group_144" data-name="Group 144" transform="translate(0 0)" clip-path="url(#clip-path)">
+        <path id="Union_2" data-name="Union 2" d="M1524.75-11169.743l-8.109,15.137-5.149-8.723-10.117.551,8.011-14.953a19.112,19.112,0,0,0,15.044,7.395,19.139,19.139,0,0,0,15.434-7.867l8.261,15.426-10.117-.551-5.146,8.723Zm-14.962-19.815a14.645,14.645,0,0,1,14.641-14.645,14.645,14.645,0,0,1,14.641,14.645,14.646,14.646,0,0,1-14.641,14.642A14.646,14.646,0,0,1,1509.788-11189.559Z" transform="translate(-1501.375 11204.202)" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+  </g>
+</svg>

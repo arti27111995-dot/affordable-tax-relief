@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75" height="75" viewBox="0 0 75 75">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00c4ff"/>
+      <stop offset="1" stop-color="#0a81e3"/>
+    </linearGradient>
+    <clipPath id="clip-ICO-cbor-confidentiality-g">
+      <rect width="75" height="75"/>
+    </clipPath>
+  </defs>
+  <g id="ICO-cbor-confidentiality-g" clip-path="url(#clip-ICO-cbor-confidentiality-g)">
+    <g id="np_confidential_5946062_000000" transform="translate(9.555 6.449)">
+      <path id="Path_250" data-name="Path 250" d="M46.588,9A18.845,18.845,0,0,0,28,24.954a9.824,9.824,0,0,1,2.741,1.557A15.844,15.844,0,1,1,46.588,43.595a15.515,15.515,0,0,1-8.809-2.686v3.385A18.746,18.746,0,1,0,46.588,9Z" transform="translate(-11.847 0)" fill="url(#linear-gradient)"/>
+      <path id="Path_251" data-name="Path 251" d="M21.9,54.383a11.984,11.984,0,0,0-2.094-.806v-3.33a7.145,7.145,0,0,0-14.291,0v3.33q-1.127.4-2.094.806A1.719,1.719,0,0,0,2.4,55.94V67.167A1.73,1.73,0,0,0,4.12,68.885H21.2a1.73,1.73,0,0,0,1.719-1.719V55.885a1.618,1.618,0,0,0-1.022-1.5ZM14.6,64a.543.543,0,0,1-.107.483.487.487,0,0,1-.43.214l-2.741,0a.491.491,0,0,1-.43-.214A.549.549,0,0,1,10.781,64l.86-3.33a2.212,2.212,0,0,1-1.236-1.987,2.256,2.256,0,0,1,4.512,0,2.206,2.206,0,0,1-1.236,1.987ZM15.884,52.61a21.19,21.19,0,0,0-6.392,0V50.192a3.223,3.223,0,1,1,6.446,0V52.61Z" transform="translate(0 -15.782)" fill="url(#linear-gradient)"/>
+      <path id="Path_252" data-name="Path 252" d="M64.39,32.744A12.948,12.948,0,1,0,51.444,45.691,12.955,12.955,0,0,0,64.39,32.744ZM51.445,24.2A2.149,2.149,0,1,1,49.3,26.352,2.156,2.156,0,0,1,51.445,24.2Zm-1.828,15.2V32.154a1.826,1.826,0,1,1,3.651,0v7.252a1.826,1.826,0,1,1-3.651,0Z" transform="translate(-16.704 -4.996)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

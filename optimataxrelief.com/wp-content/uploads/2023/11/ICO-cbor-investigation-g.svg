@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75" height="75" viewBox="0 0 75 75">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_97" data-name="Rectangle 97" width="44.199" height="44.181" fill="#0e71c3"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.181" y1="0.066" x2="0.894" y2="0.923" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0a81e3"/>
+      <stop offset="1" stop-color="#00c4ff"/>
+    </linearGradient>
+    <clipPath id="clip-ICO-cbor-investigation-g">
+      <rect width="75" height="75"/>
+    </clipPath>
+  </defs>
+  <g id="ICO-cbor-investigation-g" clip-path="url(#clip-ICO-cbor-investigation-g)">
+    <g id="Group_151" data-name="Group 151" transform="translate(15.401 15.41)">
+      <g id="Group_150" data-name="Group 150" clip-path="url(#clip-path)">
+        <path id="Union_5" data-name="Union 5" d="M.623.652A2.2,2.2,0,0,0,.668,3.769l9.765,9.766A18.905,18.905,0,0,0,25.27,44.183,18.929,18.929,0,1,0,13.55,10.418L3.784.652A2.293,2.293,0,0,0,2.2,0,2.383,2.383,0,0,0,.623.652Zm10.136,24.6A14.51,14.51,0,1,1,25.27,39.765,14.529,14.529,0,0,1,10.76,25.254Zm3.628-1.58a2.245,2.245,0,0,0,0,3.116A14.917,14.917,0,0,0,25.27,31.766,14.912,14.912,0,0,0,36.152,26.79a2.245,2.245,0,0,0,0-3.116A15.081,15.081,0,0,0,25.27,18.7,14.907,14.907,0,0,0,14.388,23.674Zm6.511,1.58a4.372,4.372,0,1,1,4.371,4.371A4.367,4.367,0,0,1,20.9,25.254Zm1.721,0A2.651,2.651,0,1,0,25.27,22.6,2.65,2.65,0,0,0,22.62,25.254Z" transform="translate(44.198 44.182) rotate(180)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+  </g>
+</svg>
