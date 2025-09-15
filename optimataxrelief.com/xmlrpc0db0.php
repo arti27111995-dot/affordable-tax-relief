@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://affordabletaxrelief.com/</homePageLink>
+		<homePageLink>https://optimataxrelief.com/</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://affordabletaxrelief.com/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://affordabletaxrelief.com/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://affordabletaxrelief.com/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://affordabletaxrelief.com/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://affordabletaxrelief.com/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://optimataxrelief.com/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://optimataxrelief.com/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://optimataxrelief.com/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://optimataxrelief.com/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://optimataxrelief.com/wp-json/" />
 			</apis>
 	</service>
 </rsd>
