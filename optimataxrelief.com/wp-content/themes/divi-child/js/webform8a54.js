@@ -36,7 +36,7 @@ function setHiddenFields() {
         input.type = 'hidden';
         input.id = fieldId;
         input.name = fieldId;
-        document.getElementById('optimataxrelief_wordpress').appendChild(input);
+        document.getElementById('affordabletaxrelief_wordpress').appendChild(input);
       }
       input.value = value;
       console.log(`Setting ${fieldId} to ${value}`); // Debug log
@@ -83,7 +83,7 @@ updatePhoneNumbers();
 
 // Webform UX
 document.addEventListener('DOMContentLoaded', function () {
-    const form = document.getElementById('optimataxrelief_wordpress');
+    const form = document.getElementById('affordabletaxrelief_wordpress');
     const steps = form.querySelectorAll('.form-step');
     let currentStep = 0;
     let isSubmitting = false;
@@ -120,7 +120,7 @@ document.addEventListener('DOMContentLoaded', function () {
     let guid = generateGUID();
 
     // Set the cookie with the GUID as its value, valid for 12 hours
-    setCookie('optima_tax_form_uuid', guid, 12);
+    setCookie('affordable_tax_form_uuid', guid, 12);
 
     // Function to show a specific step
     function showStep(stepIndex) {
@@ -158,7 +158,7 @@ document.addEventListener('DOMContentLoaded', function () {
         // Check if the selected state is CO or NY
         if (selectedStateAbbrev === 'CO' || selectedStateAbbrev === 'ND' || selectedStateAbbrev === 'MN') {
             const selectedStateName = stateNames[selectedStateAbbrev]; 
-            thankYouStep.innerHTML = `<h2>Optima does not service clients in ${selectedStateName}</h2><p>We recommend using SuperMoney’s transparent comparison site to find your best option for tax relief in that state. <span><a href="https://super.go2cloud.org/aff_c?offer_id=1624&aff_id=1020">Get Tax Help in ${selectedStateName}</a></span></p>`;
+            thankYouStep.innerHTML = `<h2>affordable does not service clients in ${selectedStateName}</h2><p>We recommend using SuperMoney’s transparent comparison site to find your best option for tax relief in that state. <span><a href="https://super.go2cloud.org/aff_c?offer_id=1624&aff_id=1020">Get Tax Help in ${selectedStateName}</a></span></p>`;
             thankYouStep.style.display = 'block';
             showStep(steps.length - 1); // Show thank you step with custom message
             return;
@@ -173,7 +173,7 @@ document.addEventListener('DOMContentLoaded', function () {
         jQuery(function ($) {
             $.ajax({
                 type: 'post',
-                url: 'https://app.optimataxrelief.com/api/updateFormActivity/' + myCookieValue,
+                url: 'https://app.affordabletaxrelief.com/api/updateFormActivity/' + myCookieValue,
                 data: data,
                 dataType: 'json',
                 cache: false
@@ -237,8 +237,8 @@ document.addEventListener('DOMContentLoaded', function () {
     showStep(0);
 
     //form_activity.js start
-    // Retrieve the value of 'optima_tax_form_uuid'
-    let myCookieValue = getCookie('optima_tax_form_uuid');
+    // Retrieve the value of 'affordable_tax_form_uuid'
+    let myCookieValue = getCookie('affordable_tax_form_uuid');
 
     const targetFields = [
             {
@@ -268,8 +268,8 @@ document.addEventListener('DOMContentLoaded', function () {
         ];
 
     let data = {
-        form_id: 'optimataxrelief_wordpress',
-        website: 'optimataxrelief.com',
+        form_id: 'affordabletaxrelief_wordpress',
+        website: 'affordabletaxrelief.com',
         uuid: guid,
         status: 'abandoned'
     };
@@ -315,7 +315,7 @@ document.addEventListener('DOMContentLoaded', function () {
         jQuery(function($) {
             $.ajax({
                 type: 'post',
-                url: 'https://app.optimataxrelief.com/api/updateFormActivity/' + myCookieValue,
+                url: 'https://app.affordabletaxrelief.com/api/updateFormActivity/' + myCookieValue,
                 data: data,
                 dataType: 'json',
                 cache: false

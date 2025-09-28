@@ -336,7 +336,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 
 05:10:43	Warning: 	Moved Permanently for https://affordabletaxrelief.com/?p=11719
 
-05:10:43	Warning: 	File has moved from https://affordabletaxrelief.com/?p=11719 to https://affordabletaxrelief.com/about-us/accreditations/
+05:10:43	Warning: 	File has moved from https://affordabletaxrelief.com/?p=11719 to 
 
 05:10:47	Warning: 	Moved Permanently for https://affordabletaxrelief.com/?p=98
 
@@ -582,7 +582,7 @@ affordable-tax-relief
 
 05:36:25	Warning: 	Moved Permanently for https://affordabletaxrelief.com/?p=16598
 
-05:36:25	Warning: 	File has moved from https://affordabletaxrelief.com/?p=16598 to https://affordabletaxrelief.com/about-us/accreditations/bbb-torch-award-for-ethics/
+05:36:25	Warning: 	File has moved from https://affordabletaxrelief.com/?p=16598 to bbb-torch-award-for-ethics/
 
 05:36:25	Warning: 	Moved Permanently for https://affordabletaxrelief.com/?p=11966
 
