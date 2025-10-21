@@ -342,3 +342,19 @@
 .post-navigation a:hover .nav-text {
     color: #1e88e5; /* Material Design blue */
 }
+
+.form-container {
+    flex-direction: column;
+}
+
+.form-container .form-box {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.form-container .form-box input {
+    width: 100%;
+    max-width: 100%;
+    min-width: 100%;
+}
