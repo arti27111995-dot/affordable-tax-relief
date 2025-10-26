@@ -358,7 +358,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 
 05:10:51	Warning: 	File has moved from https://affordabletaxrelief.com/?p=112 to https://affordabletaxrelief.com/about-us/core-values/
 
-05:24:45	Error: 	"Not Found" (404) at link https://optimataxrelief.com/wp-content/themes/divi-child/custom-category.css?ver=1.0.0 (from https://affordabletaxrelief.com/blog/ask-phil-video-series/)
+05:24:45	Error: 	"Not Found" (404) at link https://Optimataxrelief.com/wp-content/themes/divi-child/custom-category.css?ver=1.0.0 (from https://affordabletaxrelief.com/blog/ask-phil-video-series/)
 
 05:30:20	Error: 	"Not Found" (404) at link https://affordabletaxrelief.com/t (from https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js)
 
